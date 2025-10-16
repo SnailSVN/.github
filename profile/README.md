@@ -3,7 +3,7 @@
 SnailSVN for Mac is a powerful Subversion (SVN) client that integrates directly into Finder, allowing developers and teams to manage version-controlled projects seamlessly on macOS. With a simple right-click, you can commit, update, and browse repository status without leaving your file manager.
 
 <div align="center">
-  <a href="http://snailsvn.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/SnailSVN">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_SNAILSVN-green?style=for-the-badge&logo=apple" alt="Install SnailSVN on MacBook">
   </a>
 </div>
